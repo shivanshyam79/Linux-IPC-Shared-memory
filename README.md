@@ -52,7 +52,7 @@ int main()
 
 
 ## OUTPUT
-![image](https://github.com/shivanshyam79/Linux-IPC-Shared-memory/assets/151513860/18c306a6-d665-4635-909b-38064c733e8b)
+### ![image](https://github.com/shivanshyam79/Linux-IPC-Shared-memory/assets/151513860/18c306a6-d665-4635-909b-38064c733e8b)
 
 # RESULT:
 The program is executed successfully.
