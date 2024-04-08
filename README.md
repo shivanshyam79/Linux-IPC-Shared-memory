@@ -19,7 +19,8 @@ Write the C Program using Linux Process API - Shared Memory
 Execute the C Program for the desired output. 
 
 # PROGRAM:
-## Write a C program that illustrates two processes communicating using shared memory
+
+## Write a C program that illustrates two processes communicating using shared memory.
 ```
 #include <stdio.h>
 #include <sys/ipc.h>
@@ -46,13 +47,21 @@ int main()
 
 	return 0;
 }
-,,,
+
+```
+
+
+
 
 
 
 
 ## OUTPUT
-## ![image](https://github.com/shivanshyam79/Linux-IPC-Shared-memory/assets/151513860/18c306a6-d665-4635-909b-38064c733e8b)
+![image](https://github.com/22009011/Linux-IPC-Shared-memory/assets/118343461/ad3e49bb-7f0e-4bc3-a264-8397b407907b)
+
+
+
+
 
 # RESULT:
 The program is executed successfully.
